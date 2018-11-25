@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d270dd7-e3ad-4609-a3c0-70f0dc976d98" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1307780676">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="15" />
+          <entry key="java" value="2718" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2718" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="208695699">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="2973" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2973" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="31" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="31" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rozetka/RozetkaMainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rozetka/ProductDetailsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hotline/AutoMotoPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sportchek/SportChekMainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2898#2899#0" expanded="true" />
+                <element signature="e#2945#2946#0" expanded="true" />
+                <element signature="e#2829#2830#0" expanded="true" />
+                <element signature="e#2876#2877#0" expanded="true" />
+                <element signature="e#3093#3094#0" expanded="true" />
+                <element signature="e#3137#3138#0" expanded="true" />
+                <element signature="e#3021#3022#0" expanded="true" />
+                <element signature="e#3070#3071#0" expanded="true" />
+                <element signature="e#3335#3336#0" expanded="true" />
+                <element signature="e#3383#3384#0" expanded="true" />
+                <element signature="e#3440#3441#0" expanded="true" />
+                <element signature="e#3484#3485#0" expanded="true" />
+                <element signature="e#3310#3311#0" expanded="true" />
+                <element signature="e#3366#3367#0" expanded="true" />
+                <element signature="e#3409#3410#0" expanded="true" />
+                <element signature="e#3456#3457#0" expanded="true" />
+                <element signature="e#3506#3507#0" expanded="true" />
+                <element signature="e#3560#3561#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/google/SearchResultPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fly/FlyComMainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rozetka/WishlistPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SportChekTest/SportChekTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FlyComTest/FlyComTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fly/FlightsResultPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/corre/GoogleMainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/corre/GoogleSearchPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/corre/GoogleResultPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/corre/SearchResultPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/corre/google/GoogleMainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SportChek/SportChekMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/common/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hotline/HotLineMainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hotline/AutoMotoPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HotLineTest/HotLineTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rozetka/ProctDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rozetka/RozetkaMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GoogleTest/TestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rozetka/SearchResultPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rozetka/WishlistPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rozetka/ProductDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RozetkaTest/RozetkaTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sportchek/SportChekMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SportChekTest/SportChekTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fly/FlyComMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FlyComTest/FlyComTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fly/FlightsResultPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="578" />
+    <option name="y" value="401" />
+    <option name="width" value="1236" />
+    <option name="height" value="514" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rozetka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sportchek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="FlyComTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GoogleTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="HotLineTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RozetkaTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SportChekTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543177452594" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thukal\IdeaProjects\qa_framework" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FlyComTestSuite.checkDepartDate">
+    <configuration name="FlyComTestSuite.checkDepartDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlyComTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FlyComTest" />
+      <option name="MAIN_CLASS_NAME" value="FlyComTest.FlyComTestSuite" />
+      <option name="METHOD_NAME" value="checkDepartDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotLineTestSuite.checkAutoMotoGoods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HotLineTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HotLineTest" />
+      <option name="MAIN_CLASS_NAME" value="HotLineTest.HotLineTestSuite" />
+      <option name="METHOD_NAME" value="checkAutoMotoGoods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RozetkaTestSuite.checkWishlistOnRozetka" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RozetkaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RozetkaTest" />
+      <option name="MAIN_CLASS_NAME" value="RozetkaTest.RozetkaTestSuite" />
+      <option name="METHOD_NAME" value="checkWishlistOnRozetka" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SportChekTestSuite.checkErrors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sportchek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SportChekTest" />
+      <option name="MAIN_CLASS_NAME" value="sportchek.SportChekTestSuite" />
+      <option name="METHOD_NAME" value="checkErrors" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SportChekTestSuite.checkFilterItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sportchek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SportChekTest" />
+      <option name="MAIN_CLASS_NAME" value="sportchek.SportChekTestSuite" />
+      <option name="METHOD_NAME" value="checkFilterItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HotLineTestSuite.checkAutoMotoGoods" />
+      <item itemvalue="JUnit.SportChekTestSuite.checkFilterItems" />
+      <item itemvalue="JUnit.FlyComTestSuite.checkDepartDate" />
+      <item itemvalue="JUnit.RozetkaTestSuite.checkWishlistOnRozetka" />
+      <item itemvalue="JUnit.SportChekTestSuite.checkErrors" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FlyComTestSuite.checkDepartDate" />
+        <item itemvalue="JUnit.SportChekTestSuite.checkErrors" />
+        <item itemvalue="JUnit.RozetkaTestSuite.checkWishlistOnRozetka" />
+        <item itemvalue="JUnit.HotLineTestSuite.checkAutoMotoGoods" />
+        <item itemvalue="JUnit.SportChekTestSuite.checkFilterItems" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d270dd7-e3ad-4609-a3c0-70f0dc976d98" name="Default Changelist" comment="" />
+      <created>1540891431598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540891431598</updated>
+      <workItem from="1540891439881" duration="2085000" />
+      <workItem from="1540893580081" duration="5054000" />
+      <workItem from="1541156662314" duration="1988000" />
+      <workItem from="1541167457939" duration="2762000" />
+      <workItem from="1541501110898" duration="5968000" />
+      <workItem from="1541518298561" duration="1101000" />
+      <workItem from="1541592255655" duration="22799000" />
+      <workItem from="1542016105546" duration="3511000" />
+      <workItem from="1542022278639" duration="900000" />
+      <workItem from="1542192322065" duration="13689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FlyComTestSuite_checkDepartDate - 2018.11.25 at 18h 13m 50s.xml">
+      <configuration name="FlyComTestSuite.checkDepartDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlyComTestSuite_checkDepartDate - 2018.11.25 at 18h 15m 05s.xml">
+      <configuration name="FlyComTestSuite.checkDepartDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlyComTestSuite_checkDepartDate - 2018.11.25 at 18h 21m 48s.xml">
+      <configuration name="FlyComTestSuite.checkDepartDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SportChekTestSuite_checkErrors - 2018.11.25 at 19h 06m 48s.xml">
+      <configuration name="SportChekTestSuite.checkErrors" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SportChekTestSuite_checkErrors - 2018.11.25 at 19h 08m 18s.xml">
+      <configuration name="SportChekTestSuite.checkErrors" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SportChekTestSuite_checkErrors - 2018.11.25 at 19h 08m 44s.xml">
+      <configuration name="SportChekTestSuite.checkErrors" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlyComTestSuite_checkDepartDate - 2018.11.25 at 19h 13m 43s.xml">
+      <configuration name="FlyComTestSuite.checkDepartDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlyComTestSuite_checkDepartDate - 2018.11.25 at 19h 14m 03s.xml">
+      <configuration name="FlyComTestSuite.checkDepartDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlyComTestSuite_checkDepartDate - 2018.11.25 at 19h 15m 37s.xml">
+      <configuration name="FlyComTestSuite.checkDepartDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlyComTestSuite_checkDepartDate - 2018.11.25 at 19h 50m 02s.xml">
+      <configuration name="FlyComTestSuite.checkDepartDate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59857000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22451194" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.35791758" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../app3/app3.iml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FlyComTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rozetka/SearchResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hotline/HotLineMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HotLineTest/HotLineTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleTest/TestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="35" column="63" selection-start-line="28" selection-start-column="3" selection-end-line="35" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RozetkaTest/RozetkaTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/google/GoogleMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="47" selection-start-line="35" selection-start-column="28" selection-end-line="38" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/google/SearchResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hotline/AutoMotoPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rozetka/ProductDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rozetka/RozetkaMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rozetka/WishlistPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sportchek/SportChekMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2898#2899#0" expanded="true" />
+            <element signature="e#2945#2946#0" expanded="true" />
+            <element signature="e#2829#2830#0" expanded="true" />
+            <element signature="e#2876#2877#0" expanded="true" />
+            <element signature="e#3093#3094#0" expanded="true" />
+            <element signature="e#3137#3138#0" expanded="true" />
+            <element signature="e#3021#3022#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3335#3336#0" expanded="true" />
+            <element signature="e#3383#3384#0" expanded="true" />
+            <element signature="e#3440#3441#0" expanded="true" />
+            <element signature="e#3484#3485#0" expanded="true" />
+            <element signature="e#3310#3311#0" expanded="true" />
+            <element signature="e#3366#3367#0" expanded="true" />
+            <element signature="e#3409#3410#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3506#3507#0" expanded="true" />
+            <element signature="e#3560#3561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SportChekTest/SportChekTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FlyComTest/FlyComTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fly/FlightsResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fly/FlyComMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
